@@ -37,7 +37,7 @@ public class Main extends Application{
         //05. add component -> a. button
         Button button = new Button("OK");
         Button button1 = new Button("No");
-        hBox.getChildren().addAll(button, button1);
+        hBox.getChildren().addAll(button, button1); //
 
     }
 
